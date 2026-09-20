@@ -64,4 +64,6 @@ Community Dashboard
 ## 🏆 Hackathon
 
 HACKDAY 1.0 — DECODEP Community
-Theme: Tech for a Better Tomorrow
+
+# Theme: Tech for a Better Tomorrow
+# **CivicLens** — See a problem? Make it visible. 🔎
