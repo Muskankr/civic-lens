@@ -1,0 +1,21 @@
+# Frontend
+civic-lens/node_modules/
+civic-lens/.next/
+civic-lens/.env
+civic-lens/.env.local
+
+# Backend
+civic-lens-backend/venv/
+civic-lens-backend/.env
+civic-lens-backend/__pycache__/
+civic-lens-backend/**/*.pyc
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# OS
+.DS_Store
